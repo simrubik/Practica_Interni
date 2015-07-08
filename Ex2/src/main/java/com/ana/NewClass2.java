@@ -9,6 +9,7 @@ public class NewClass2 {
 		System.out.println("Am modificat clasa din daniel branch");
 
 		System.out.println("Modificare pentru stach");
+		System.out.println("Modificare pentru stach 2");
 	}
 
 }
