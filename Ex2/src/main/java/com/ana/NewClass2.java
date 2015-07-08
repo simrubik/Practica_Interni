@@ -8,6 +8,7 @@ public class NewClass2 {
 		System.out.println("Modificat din ana pe acelasi rand");
 		System.out.println("Am modificat clasa din daniel branch");
 
+		System.out.println("Modificare pentru stach");
 	}
 
 }
